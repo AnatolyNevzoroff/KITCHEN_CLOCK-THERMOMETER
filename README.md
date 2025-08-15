@@ -12,3 +12,5 @@ EQUIPMENT COMPOSITION:
 - TRANSMITTER SYN115 or WL102-341 (433.92 MHz)(2.0V...3.6V)
 - VOLTAGE STABILIZER AMS1117 (3.3V)
 
+Additional information in the video in Russian.
+https://youtu.be/CxBXs8nzY3E
