@@ -14,3 +14,5 @@ EQUIPMENT COMPOSITION:
 
 Additional information in the video in Russian.
 https://youtu.be/CxBXs8nzY3E
+and
+https://youtu.be/IT9PfwUMtco
